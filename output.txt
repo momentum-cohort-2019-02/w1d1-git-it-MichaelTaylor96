@@ -1,0 +1,10 @@
+16:47 $ brew --version
+Homebrew 2.0.1
+Homebrew/homebrew-core (git revision 9aca4; last commit 2019-02-11)
+✔ ~/First_Repository [master|…1]
+16:48 $ python3 --version
+Python 3.6.4
+✔ ~/First_Repository [master|…1]
+16:48 $ pipenv --version
+pipenv, version 2018.11.26
+✔ ~/First_Repository [master|…1]
